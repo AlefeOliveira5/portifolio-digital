@@ -1,0 +1,39 @@
+body {
+    font-family: 20px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.navbar {
+    background-color: #020F42;
+    font-size: large;
+    
+
+}
+
+.margin {
+    /*padding é uma margem interna do conteudo*/
+    padding-bottom: 5px;
+    padding-top: 1px;
+}
+
+.link-img {
+    margin-left: 10px;
+}
+
+.logo {
+    width: 200px;
+    height: 150px; 
+}
+
+#home {
+    background: mintcream;
+}
+
+.avatar {
+    border-radius: 100%;
+    border-style: solid;
+    border-color: orange;
+    width: 220px;
+    height: 220px;
+    margin-top: 2%;
+}
